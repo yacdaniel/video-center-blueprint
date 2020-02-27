@@ -31,7 +31,7 @@
     "redux-thunk": "^2.3.0",
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.2.1",
-    "shaka-player": "^2.3.7",
+    "shaka-player": "^2.5.9",
     "styled-components": "^4.3.2",
     "styled-theme": "^0.3.3",
     "url-search-params-polyfill": "^5.0.0"
