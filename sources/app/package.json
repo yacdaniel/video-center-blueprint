@@ -9,7 +9,7 @@
     "@craftercms/redux": "^1.1.0",
     "@craftercms/search": "^1.1.0",
     "@craftercms/utils": "^1.1.0",
-    "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
     "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
     "@fortawesome/react-fontawesome": "^0.1.0-11",
     "antd": "^3.20.7",
